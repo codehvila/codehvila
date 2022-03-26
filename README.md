@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @codehvila
 - 👀 I’m interested in ... css, js, React.
 - 🌱 I’m currently learning ... deepening my knowledge in git.
-- 🌱 I’m currently learning ... deepening my knowledge in React State Management.
+- 💎 I’m currently learning ... deepening my knowledge in React State Management.
 - 💞️ I’m looking to collaborate on ... in many things, but I do not have time available.
 - 📫 How to reach me ... 
 
